@@ -1,8 +1,0 @@
-{
-  "/admin/categories/page": "app/admin/categories/page.js",
-  "/admin/create-course/page": "app/admin/create-course/page.js",
-  "/admin/users/page": "app/admin/users/page.js",
-  "/admin/courses/page": "app/admin/courses/page.js",
-  "/admin/hero/page": "app/admin/hero/page.js",
-  "/admin/team/page": "app/admin/team/page.js"
-}
